@@ -1,0 +1,499 @@
+[
+  {
+    "title": "Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs",
+    "authors": [
+      "Qing Wang",
+      "Jiwu Shu",
+      "Jing Wang",
+      "Yuhao Zhang"
+    ],
+    "venue": "The 22nd USENIX Symposium on Networked Systems Design and Implementation",
+    "short": "NSDI'25",
+    "year": "2025",
+    "link": "https://www.usenix.org/conference/nsdi25/presentation/wang-qing",
+    "code": null
+  },
+  {
+    "title": "Designing an Efficient Tree Index on Disaggregated Memory",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "Communications of the ACM",
+    "short": "CACM",
+    "year": "2025",
+    "link": "https://cacm.acm.org/research-highlights/designing-an-efficient-tree-index-on-disaggregated-memory/",
+    "award": "Research Highlight",
+    "code": null
+  },
+  {
+    "title": "Efficient Multi-LLM Serving with Workload Weaving",
+    "authors": [
+      "Shiwei Gao",
+      "Qing Wang",
+      "Shaoxun Zeng",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Annual Technical Conference",
+    "short": "USENIX ATC'25",
+    "year": "2025",
+    "link": null,
+    "code": null
+  },
+  {
+    "title": "ShiftLock: Mitigate One-sided RDMA Lock Contention via Handover",
+    "authors": [
+      "Jian Gao",
+      "Qing Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 23rd USENIX Conference on File and Storage Technologies",
+    "short": "FAST'25",
+    "year": "2025",
+    "link": "https://www.usenix.org/conference/fast25/presentation/gao",
+    "code": "https://github.com/thustorage/shiftlock",
+    "award": "Distinguished Artifact Award"
+  },
+  {
+    "title": "Deft: A Scalable Tree Index for Disaggregated Memory",
+    "authors": [
+      "Jing Wang",
+      "Qing Wang",
+      "Yuhao Zhang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 20th European Conference on Computer Systems",
+    "short": "EuroSys'25",
+    "year": "2025",
+    "link": null,
+    "code": "https://github.com/thustorage/deft"
+  },
+  {
+    "title": "Efficiently Enlarging RDMA-Attached Memory with SSD",
+    "authors": [
+      "Zhe Yang",
+      "Qing Wang",
+      "Xiaojian Liao",
+      "Youyou Lu",
+      "Keji Huang",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2025",
+    "link": "https://dl.acm.org/doi/10.1145/3700772",
+    "award": "Fast-tracked",
+    "code": "https://github.com/thustorage/TeRM"
+  },
+  {
+    "title": "CableCache: In-Network Request Deduplication for Key-Value Stores",
+    "authors": [
+      "Jiawei Huang",
+      "Junru Li",
+      "Qing Wang",
+      "Lijie Wen",
+      "Youyou Lu",
+      "Erci Xu"
+    ],
+    "venue": "The 17th ACM Workshop on Hot Topics in Storage and File Systems",
+    "short": "HotStorage'25",
+    "year": "2025",
+    "link": null,
+    "code": null
+  },
+  {
+    "title": "TeRM: Extending RDMA-Attached Memory with SSD",
+    "authors": [
+      "Zhe Yang",
+      "Qing Wang",
+      "Xiaojian Liao",
+      "Youyou Lu",
+      "Keji Huang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 22nd USENIX Conference on File and Storage Technologies",
+    "short": "FAST'24",
+    "year": "2024",
+    "link": "https://www.usenix.org/conference/fast24",
+    "code": "https://github.com/thustorage/TeRM",
+    "award": "Invited for fast-tracked publication in ACM Transactions on Storage"
+  },
+  {
+    "title": "Perseid: A Secondary Indexing Mechanism for LSM-based Storage Systems",
+    "authors": [
+      "Jing Wang",
+      "Youyou Lu",
+      "Qing Wang",
+      "Yuhao Zhang",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2024",
+    "link": "https://dl.acm.org/doi/10.1145/3633285",
+    "code": "https://github.com/thustorage/perseid",
+    "award": "Fast-tracked"
+  },
+  {
+    "title": "Challenges and Technical Development of Large Model Training Storage Systems",
+    "authors": [
+      "Yangyang Feng",
+      "Qing Wang",
+      "Minhui Xie",
+      "Jiwu Shu"
+    ],
+    "venue": "Journal of Computer Research and Development",
+    "year": "2024",
+    "code": null
+  },
+  {
+    "title": "Replicating Persistent Memory Key-Value Stores with Efficient RDMA Abstraction",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Jing Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 17th USENIX Symposium on Operating Systems Design and Implementation",
+    "short": "OSDI'23",
+    "year": "2023",
+    "link": "https://www.usenix.org/conference/osdi23/presentation/wang-qing",
+    "code": "https://github.com/thustorage/rowan"
+  },
+  {
+    "title": "Building Write-Optimized Tree Indexes on Disaggregated Memory",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "SIGMOD Record, March 2023 (Vol. 52, No. 1)",
+    "year": "2023",
+    "code": "https://github.com/thustorage/Sherman",
+    "link": "https://sigmodrecord.org/2023/04/29/building-write-optimized-tree-indexes-on-disaggregated-memory/",
+    "award": "Invited"
+  },
+  {
+    "title": "Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory",
+    "authors": [
+      "Jing Wang",
+      "Youyou Lu",
+      "Qing Wang",
+      "Yuhao Zhang",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Annual Technical Conference",
+    "short": "USENIX ATC'23",
+    "year": "2023",
+    "link": "https://www.usenix.org/conference/atc23/presentation/wang-jing",
+    "code": "https://github.com/thustorage/perseid",
+    "award": "Invited for fast-tracked publication in ACM Transactions on Storage"
+  },
+  {
+    "title": "Patronus: High-Performance and Protective Remote Memory",
+    "authors": [
+      "Bin Yan",
+      "Youyou Lu",
+      "Qing Wang",
+      "Minhui Xie",
+      "Jiwu Shu"
+    ],
+    "venue": "The 21st USENIX Conference on File and Storage Technologies",
+    "short": "FAST'23",
+    "year": "2023",
+    "link": "https://www.usenix.org/conference/fast23/presentation/yan",
+    "code": "https://github.com/YanB25/Patronus"
+  },
+  {
+    "title": "Citron: Distributed Range Lock Management with One-sided RDMA",
+    "authors": [
+      "Jian Gao",
+      "Youyou Lu",
+      "Minhui Xie",
+      "Qing Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 21st USENIX Conference on File and Storage Technologies",
+    "short": "FAST'23",
+    "year": "2023",
+    "link": "https://www.usenix.org/conference/fast23/presentation/gao",
+    "code": null
+  },
+  {
+    "title": "PetPS: Supporting Huge Embedding Models with Persistent Memory",
+    "authors": [
+      "Minhui Xie",
+      "Youyou Lu",
+      "Qing Wang",
+      "Yangyang Feng",
+      "Jiaqiang Liu",
+      "Kai Ren",
+      "Jiwu Shu"
+    ],
+    "venue": "The 49th International Conference on Very Large Data Bases",
+    "short": "VLDB'23",
+    "year": "2023",
+    "link": "https://www.vldb.org/pvldb/vol16/p1013-xie.pdf",
+    "code": "https://github.com/thustorage/PetPS"
+  },
+  {
+    "title": "Survey on In-Network Storage Systems",
+    "authors": [
+      "Qing Wang",
+      "Junru Li",
+      "Jiwu Shu"
+    ],
+    "venue": "Journal of Computer Research and Delevopment (in Chinese)",
+    "year": "2023",
+    "link": null,
+    "code": null
+  },
+  {
+    "title": "Progress on Storage Systems for Disaggregated Data Centers",
+    "authors": [
+      "Jiwu Shu",
+      "Youmin Chen",
+      "Qing Wang",
+      "Jing Wang",
+      "Junru Li",
+      "Xiaojian liao"
+    ],
+    "venue": "SCIENTIA SINICA Informationis",
+    "year": "2023",
+    "link": "https://storage.cs.tsinghua.edu.cn/publications/分离式数据中心的存储系统研究进展.pdf",
+    "code": null
+  },
+  {
+    "title": "Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM SIGMOD International Conference on Management of Data",
+    "short": "SIGMOD'22",
+    "year": "2022",
+    "award": "2023 ACM SIGMOD Research Highlight Award,  CACM Research Highlight",
+    "link": "/papers/sigmod22sherman.pdf",
+    "code": "https://github.com/thustorage/Sherman"
+  },
+  {
+    "title": "Nap: Persistent Memory Indexes for NUMA Architectures",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Junru Li",
+      "Minhui Xie",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2022",
+    "link": "/papers/tos22nap.pdf",
+    "award": "Fast tracked",
+    "code": null
+  },
+  {
+    "title": "AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing",
+    "authors": [
+      "Junru Li",
+      "Youyou Lu",
+      "Qing Wang",
+      "Jiazhen Lin",
+      "Zhe Yang",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Annual Technical Conference",
+    "short": "USENIX ATC'22",
+    "year": "2022",
+    "link": "https://www.usenix.org/conference/atc22/presentation/li-junru",
+    "code": null
+  },
+  {
+    "title": "Pacman: An Efficient Compaction Approach for Log-Structured Key-Value Store on Persistent Memory",
+    "authors": [
+      "Jing Wang",
+      "Youyou Lu",
+      "Qing Wang",
+      "Minhui Xie",
+      "Keji Huang",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Annual Technical Conference",
+    "short": "USENIX ATC'22",
+    "year": "2022",
+    "link": "https://www.usenix.org/conference/atc22/presentation/wang-jing",
+    "code": "https://github.com/thustorage/pacman"
+  },
+  {
+    "title": "Fleche: An Efficient GPU Embedding Cache for Personalized Recommendations",
+    "authors": [
+      "Minhui Xie",
+      "Youyou Lu",
+      "Jiazhen Lin",
+      "Qing Wang",
+      "Jian Gao",
+      "Kai Ren",
+      "Jiwu Shu"
+    ],
+    "venue": "The 17th European Conference on Computer Systems",
+    "short": "EuroSys'22",
+    "year": "2022",
+    "link": "/papers/eurosys22fleche.pdf",
+    "code": null
+  },
+  {
+    "title": "SwitchTx: Scalable In-Network Coordination for Distributed Transaction Processing",
+    "authors": [
+      "Junru Li",
+      "Youyou Lu",
+      "Yiming Zhang",
+      "Qing Wang",
+      "Zhuo Cheng",
+      "Keji Huang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 48th International Conference on Very Large Data Bases",
+    "short": "VLDB'22",
+    "year": "2022",
+    "link": "https://vldb.org/pvldb/vol15/p2881-li.pdf",
+    "code": null
+  },
+  {
+    "title": "Nap: A Black-Box Approach to NUMA-Aware Persistent Memory Indexes",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Junru Li",
+      "Jiwu Shu"
+    ],
+    "venue": "The 15th USENIX Symposium on Operating Systems Design and Implementation",
+    "short": "OSDI'21",
+    "year": "2021",
+    "link": "https://www.usenix.org/conference/osdi21/presentation/wang-qing",
+    "code": "https://github.com/thustorage/osdi21ae",
+    "award": "Invited for fast-tracked publication in ACM Transactions on Storage"
+  },
+  {
+    "title": "Concordia: Distributed Shared Memory with In-Network Cache Coherence",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Erci Xu",
+      "Junru Li",
+      "Youmin Chen",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Conference on File and Storage Technologies",
+    "short": "FAST'21",
+    "year": "2021",
+    "link": "/papers/fast21-concordia.pdf",
+    "code": null
+  },
+  {
+    "title": "Octopus+: an RDMA-enabled Distributed Persistent Memory File System",
+    "authors": [
+      "Bohong Zhu",
+      "Youmin Chen",
+      "Qing Wang",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2021",
+    "link": "/papers/tos21octopus.pdf",
+    "code": null
+  },
+  {
+    "title": "Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores",
+    "authors": [
+      "Fan Yang",
+      "Youmin Chen",
+      "Youyou Lu",
+      "Qing Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "37th IEEE International Conference on Data Engineering",
+    "short": "ICDE'21",
+    "year": "2021",
+    "link": "/papers/icde21-aria.pdf",
+    "code": null
+  },
+  {
+    "title": "A Multicore-Friendly Persistent Memory Key-Value Store",
+    "authors": [
+      "Qing Wang",
+      "Bohong Zhu",
+      "Jiwu Shu"
+    ],
+    "venue": "Journal of Computer Research and Delevopment (in Chinese)",
+    "year": "2021",
+    "link": "https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2021.20200381",
+    "code": null
+  },
+  {
+    "title": "Improving the Concurrency Performance of Persistent Memory Transactions on Multicores",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Zhongjie Wu",
+      "Fan Yang",
+      "Jiwu Shu"
+    ],
+    "venue": "Design Automation Conference",
+    "short": "DAC'20",
+    "year": "2020",
+    "link": "/papers/dac20-sp3.pdf",
+    "code": null
+  },
+  {
+    "title": "FlatStore: an Efficient Log-Structured Key-Value Storage Engine for Persistent Memory",
+    "authors": [
+      "Youmin Chen",
+      "Youyou Lu",
+      "Fan Yang",
+      "Qing Wang",
+      "Yang Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "short": "ASPLOS'20",
+    "year": "2020",
+    "link": "/papers/asplos20-flatstore.pdf",
+    "code": null
+  },
+  {
+    "title": "μTree: a Persistent B+-Tree with Low Tail Latency",
+    "authors": [
+      "Youmin Chen",
+      "Youyou Lu",
+      "Kedong Fang",
+      "Qing Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "46th International Conference on Very Large Data Bases",
+    "short": "VLDB'20",
+    "year": "2020",
+    "link": "/papers/vldb20-utree.pdf",
+    "code": null
+  },
+  {
+    "title": "TH-DPMS: Design and Implementation of an RDMA-enabled Distributed Persistent Memory Storage System",
+    "authors": [
+      "Jiwu Shu",
+      "Youmin Chen",
+      "Qing Wang",
+      "Bohong Zhu",
+      "Junru Li",
+      "Youyou Lu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2020",
+    "link": "/papers/tos20dpms.pdf",
+    "code": null
+  }
+]

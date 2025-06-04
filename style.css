@@ -1,0 +1,101 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+}
+
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem 1rem 1rem 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.avatar-rect {
+  width: 160px;
+  height: auto;
+  object-fit: cover;
+  margin-right: 2rem;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+  padding-bottom: 6rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3rem;
+  color: #222;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #d62728;
+}
+
+.venue-short {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.award {
+  color: #d62728;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+  .header-flex {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .avatar-rect {
+    width: 80%;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #1f77b4;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #0c0c0c;
+}
+
+.conf-tag {
+  color: #1f77b4; /* 浅蓝色，与 matplotlib 默认蓝色一致 */
+}
