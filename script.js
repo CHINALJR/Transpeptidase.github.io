@@ -21,18 +21,19 @@ document.addEventListener('DOMContentLoaded', () => {
         const ul = document.createElement('ul');
         grouped[year].forEach(paper => {
           const item = document.createElement('li');
+          item.style.marginBottom = "8px";
 
           // 高亮所有包含 "Qing Wang" 的作者名（大小写敏感匹配子串）
           const highlightedAuthors = paper.authors.map(name =>
             name.includes("Qing Wang") ? `<span class="highlight">${name}</span>` : name
           ).join(", ");
 
-          const codeLink = paper.code ? ` | <a href="${paper.code}" target="_blank">[Code]</a>` : "";
+          const codeLink = paper.code ? ` <a href="${paper.code}" target="_blank" class="bule-tag">[Code]</a>` : "";
 
           item.innerHTML = `
-            <a href="${paper.link}" target="_blank">${paper.title}</a>${codeLink}<br>
+            <a href="${paper.link}" target="_blank">${paper.title}</a><br>
             <span>${highlightedAuthors}</span><br>
-            <span>${paper.venue}${paper.short ? ` (<span class="venue-short">${paper.short}</span>)` : ""}, ${paper.year}</span>
+            <span>${paper.venue}${paper.short ? ` (<span class="venue-short">${paper.short}</span>)` : ""}, ${paper.year}</span>${codeLink}
             ${paper.award ? `<br><span class="award"> ${paper.award}</span>` : ""}
           `;
           ul.appendChild(item);

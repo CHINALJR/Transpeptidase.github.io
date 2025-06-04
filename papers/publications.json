@@ -39,7 +39,7 @@
     "venue": "USENIX Annual Technical Conference",
     "short": "USENIX ATC'25",
     "year": "2025",
-    "link": null,
+    "link": "https://www.usenix.org/conference/atc25/presentation/gao",
     "code": null
   },
   {
@@ -67,7 +67,7 @@
     "venue": "The 20th European Conference on Computer Systems",
     "short": "EuroSys'25",
     "year": "2025",
-    "link": null,
+    "link": "https://dl.acm.org/doi/10.1145/3689031.3696062",
     "code": "https://github.com/thustorage/deft"
   },
   {
@@ -258,7 +258,7 @@
       "Qing Wang",
       "Jing Wang",
       "Junru Li",
-      "Xiaojian liao"
+      "Xiaojian Liao"
     ],
     "venue": "SCIENTIA SINICA Informationis",
     "year": "2023",
@@ -341,7 +341,7 @@
     "venue": "The 17th European Conference on Computer Systems",
     "short": "EuroSys'22",
     "year": "2022",
-    "link": "/papers/eurosys22fleche.pdf",
+    "link": "https://dl.acm.org/doi/10.1145/3492321.3519554",
     "code": null
   },
   {
@@ -389,7 +389,7 @@
     "venue": "USENIX Conference on File and Storage Technologies",
     "short": "FAST'21",
     "year": "2021",
-    "link": "/papers/fast21-concordia.pdf",
+    "link": "https://www.usenix.org/conference/fast21/presentation/wang",
     "code": null
   },
   {
@@ -404,7 +404,7 @@
     "venue": "ACM Transactions on Storage",
     "short": "TOS",
     "year": "2021",
-    "link": "/papers/tos21octopus.pdf",
+    "link": "https://dl.acm.org/doi/10.1145/3448418",
     "code": null
   },
   {
@@ -419,7 +419,7 @@
     "venue": "37th IEEE International Conference on Data Engineering",
     "short": "ICDE'21",
     "year": "2021",
-    "link": "/papers/icde21-aria.pdf",
+    "link": "https://ieeexplore.ieee.org/document/9458662/",
     "code": null
   },
   {
@@ -446,7 +446,7 @@
     "venue": "Design Automation Conference",
     "short": "DAC'20",
     "year": "2020",
-    "link": "/papers/dac20-sp3.pdf",
+    "link": "https://ieeexplore.ieee.org/document/9218554",
     "code": null
   },
   {
@@ -462,7 +462,7 @@
     "venue": "Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
     "short": "ASPLOS'20",
     "year": "2020",
-    "link": "/papers/asplos20-flatstore.pdf",
+    "link": "https://dl.acm.org/doi/10.1145/3373376.3378515",
     "code": null
   },
   {
@@ -477,7 +477,7 @@
     "venue": "46th International Conference on Very Large Data Bases",
     "short": "VLDB'20",
     "year": "2020",
-    "link": "/papers/vldb20-utree.pdf",
+    "link": "https://dl.acm.org/doi/10.14778/3407790.3407850",
     "code": null
   },
   {
@@ -493,7 +493,7 @@
     "venue": "ACM Transactions on Storage",
     "short": "TOS",
     "year": "2020",
-    "link": "/papers/tos20dpms.pdf",
+    "link": "https://dl.acm.org/doi/10.1145/3412852",
     "code": null
   }
 ]
