@@ -103,6 +103,18 @@
     "link": null,
     "code": null
   },
+    {
+    "title": "Challenges and Technical Development of Storage Systems in the Era of LLMs",
+    "authors": [
+      "Yangyang Feng",
+      "Qing Wang",
+      "Jiwu Shu"
+    ],
+    "venue": "Journal of Big Data Research (in Chinese)",
+    "year": "2025",
+    "link": "https://www.j-bigdataresearch.com.cn/zh/article/doi/10.11959/j.issn.2096-0271.2025001/",
+    "code": null
+  },
   {
     "title": "TeRM: Extending RDMA-Attached Memory with SSD",
     "authors": [
@@ -144,7 +156,7 @@
       "Minhui Xie",
       "Jiwu Shu"
     ],
-    "venue": "Journal of Computer Research and Development",
+    "venue": "Journal of Computer Research and Development (in Chinese)",
     "year": "2024",
     "code": null
   },
@@ -260,7 +272,7 @@
       "Junru Li",
       "Xiaojian Liao"
     ],
-    "venue": "SCIENTIA SINICA Informationis",
+    "venue": "SCIENTIA SINICA Informationis (in Chinese)",
     "year": "2023",
     "link": "https://storage.cs.tsinghua.edu.cn/publications/分离式数据中心的存储系统研究进展.pdf",
     "code": null
@@ -276,7 +288,7 @@
     "short": "SIGMOD'22",
     "year": "2022",
     "award": "2023 ACM SIGMOD Research Highlight Award,  CACM Research Highlight",
-    "link": "/papers/sigmod22sherman.pdf",
+    "link": "https://dl.acm.org/doi/10.1145/3514221.3517824",
     "code": "https://github.com/thustorage/Sherman"
   },
   {
@@ -291,7 +303,7 @@
     "venue": "ACM Transactions on Storage",
     "short": "TOS",
     "year": "2022",
-    "link": "/papers/tos22nap.pdf",
+    "link": "https://dl.acm.org/doi/10.1145/3507922",
     "award": "Fast tracked",
     "code": null
   },
