@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const codeLink = paper.code ? ` <a href="${paper.code}" target="_blank" class="bule-tag">[Code]</a>` : "";
 
           item.innerHTML = `
-            <a href="${paper.link}" target="_blank">${paper.title}</a><br>
+            <a href="${paper.link}" target="_blank">${paper.title}</a>.<br>
             <span>${highlightedAuthors}</span><br>
             <span>${paper.venue}${paper.short ? ` (<span class="venue-short">${paper.short}</span>)` : ""}, ${paper.year}</span>${codeLink}
             ${paper.award ? `<br><span class="award"> ${paper.award}</span>` : ""}
