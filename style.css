@@ -52,11 +52,6 @@ ul {
   font-style: italic;
 }
 
-.award {
-  font-size: 0.9em;
-  color: #d62728;
-  font-style: italic;
-}
 
 .award-inline {
   color: #d62728;
@@ -100,6 +95,13 @@ a:hover {
 .bule-tag {
   color: #1f77b4;
   /* 浅蓝色，与 matplotlib 默认蓝色一致 */
+}
+
+
+.award {
+  font-size: 0.92em;
+  color: #d62728;
+  font-style: italic;
 }
 
 .authors {
