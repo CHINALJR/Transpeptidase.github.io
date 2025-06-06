@@ -30,12 +30,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
           const codeLink = paper.code ? ` <a href="${paper.code}" target="_blank" class="bule-tag">[Code]</a>` : "";
 
+          const max_inline_award_length = 30
+          const awardInline = paper.award && paper.award.length < max_inline_award_length
+            ? ` (<span class="award-inline">${paper.award}</span>)`
+            : "";
+
+          const awardBlock = paper.award && paper.award.length >= max_inline_award_length
+            ? `<br><span class="award">${paper.award}</span>`
+            : "";
+
           item.innerHTML = `
-            <a href="${paper.link}" target="_blank">${paper.title}</a>.<br>
-            <span>${highlightedAuthors}</span><br>
-            <span>${paper.venue}${paper.short ? ` (<span class="venue-short">${paper.short}</span>)` : ""}, ${paper.year}</span>${codeLink}
-            ${paper.award ? `<br><span class="award"> ${paper.award}</span>` : ""}
+            ${paper.short ? `<strong>[${paper.short}]</strong> ` : ""}
+            <a href="${paper.link}" target="_blank">${paper.title}</a>${codeLink}<br>
+            <span class="authors">${highlightedAuthors}</span><br>
+            <span class="venue-full">${paper.venue}, ${paper.year}${awardInline}</span>
+            ${awardBlock}
           `;
+
           ul.appendChild(item);
         });
         container.appendChild(ul);
