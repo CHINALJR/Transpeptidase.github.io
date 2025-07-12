@@ -54,7 +54,7 @@
     "code": null
   },
   {
-    "title": "Efficient Multi-LLM Serving with Workload Weaving",
+    "title": "Weaver: Efficient Multi-LLM Serving with Attention Offloading",
     "authors": [
       "Shiwei Gao",
       "Qing Wang",
