@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   padding: 2rem 1rem 1rem 1rem;
-  max-width: 900px;
+  max-width: 950px;
   margin: 0 auto;
   flex-wrap: wrap;
 }
@@ -25,7 +25,7 @@ body {
 }
 
 main {
-  max-width: 900px;
+  max-width: 950px;
   margin: 0 auto;
   padding: 1rem;
   padding-bottom: 1rem;
@@ -52,10 +52,10 @@ ul {
   font-style: italic;
 }
 
-.award {
+
+.award-inline {
   color: #d62728;
   font-style: italic;
-  margin-top: 0.5rem;
 }
 
 footer {
@@ -89,10 +89,31 @@ a:hover {
 }
 
 .highlight {
-  font-weight: bold;
   color: #0c0c0c;
 }
 
 .bule-tag {
-  color: #1f77b4; /* 浅蓝色，与 matplotlib 默认蓝色一致 */
+  color: #1f77b4;
+  /* 浅蓝色，与 matplotlib 默认蓝色一致 */
+}
+
+
+.award {
+  font-size: 0.92em;
+  color: #d62728;
+  font-style: italic;
+}
+
+.authors {
+  font-size: 0.92em;
+  color: #555;
+}
+
+.venue-full {
+  font-size: 0.92em;
+  color: #777;
+}
+
+#paper-list li {
+  line-height: 1.35em;
 }

@@ -208,6 +208,7 @@
       "Jiwu Shu"
     ],
     "venue": "SIGMOD Record, March 2023 (Vol. 52, No. 1)",
+    "short": "SIGMOD Record",
     "year": "2023",
     "code": "https://github.com/thustorage/Sherman",
     "link": "https://sigmodrecord.org/2023/04/29/building-write-optimized-tree-indexes-on-disaggregated-memory/",
