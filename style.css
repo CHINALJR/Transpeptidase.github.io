@@ -17,6 +17,11 @@ body {
   flex-wrap: wrap;
 }
 
+.header-flex .info {
+  line-height: 1.4;
+}
+
+
 .avatar-rect {
   width: 160px;
   height: auto;
