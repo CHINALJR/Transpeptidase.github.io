@@ -2,7 +2,7 @@
 
 # pip3 install pytest-playwright playwright
 # /Users/wq/Library/Python/3.9/bin/playwright install chromium
-# python3 -m http.server 8000
+# python -m http.server 8000 --bind 0.0.0.0
 
 from playwright.sync_api import sync_playwright
 import os

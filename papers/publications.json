@@ -1,30 +1,30 @@
 [
   {
-  "title": "Cost-efficient Archive Cloud Storage with Tape: Design and Deployment",
-  "authors": [
-    "Qing Wang*",
-    "Fan Yang*",
-    "Qiang Liu",
-    "Geng Xiao",
-    "Yongpeng Chen",
-    "Hao Lan",
-    "Leiming Chen",
-    "Bangzhu Chen",
-    "Chenrui Liu",
-    "Pingchang Bai",
-    "Bin Huang",
-    "Zigan Luo",
-    "Mingyu Xie",
-    "Yu Wang",
-    "Youyou Lu",
-    "Huatao Wu",
-    "Jiwu Shu"
-  ],
-  "venue": "The 24th USENIX Conference on File and Storage Technologies",
-  "short": "FAST'26",
-  "year": 2026,
-  "link": "https://www.usenix.org/conference/fast26/"
-},
+    "title": "Cost-efficient Archive Cloud Storage with Tape: Design and Deployment",
+    "authors": [
+      "Qing Wang*",
+      "Fan Yang*",
+      "Qiang Liu",
+      "Geng Xiao",
+      "Yongpeng Chen",
+      "Hao Lan",
+      "Leiming Chen",
+      "Bangzhu Chen",
+      "Chenrui Liu",
+      "Pingchang Bai",
+      "Bin Huang",
+      "Zigan Luo",
+      "Mingyu Xie",
+      "Yu Wang",
+      "Youyou Lu",
+      "Huatao Wu",
+      "Jiwu Shu"
+    ],
+    "venue": "The 24th USENIX Conference on File and Storage Technologies",
+    "short": "FAST'26",
+    "year": 2026,
+    "link": "https://www.usenix.org/conference/fast26/"
+  },
   {
     "title": "Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs",
     "authors": [
@@ -112,6 +112,20 @@
     "link": "https://dl.acm.org/doi/10.1145/3700772",
     "award": "Fast-tracked",
     "code": "https://github.com/thustorage/TeRM"
+  },
+  {
+    "title": "StageWise: Accelerating Persistent Key-Value Stores by Thread Model Redesigning",
+    "authors": [
+      "Zeqi Li",
+      "Youmin Chen",
+      "Qing Wang",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "IEEE Transactions on Computers",
+    "short": "TC",
+    "year": "2025",
+    "link": "https://doi.org/10.1109/TC.2025.3605763"
   },
   {
     "title": "CableCache: In-Network Request Deduplication for Key-Value Stores",
