@@ -51,7 +51,20 @@
     "year": "2025",
     "link": "https://cacm.acm.org/research-highlights/designing-an-efficient-tree-index-on-disaggregated-memory/",
     "award": "Research Highlight",
-    "code": null
+    "code": "https://github.com/thustorage/Sherman"
+  },
+  {
+    "title": "Accelerating Distributed Filesystem Metadata Service via Decoupling Directory Semantics from Metadata Indexing",
+    "authors": [
+      "Wenhao Lv",
+      "Hao Guo",
+      "Qing Wang",
+      "Youyou Lu",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Symposium on Cloud Computing",
+    "short": "SoCC'25",
+    "year": "2025"
   },
   {
     "title": "Weaver: Efficient Multi-LLM Serving with Attention Offloading",
@@ -334,7 +347,7 @@
     "year": "2022",
     "link": "https://dl.acm.org/doi/10.1145/3507922",
     "award": "Fast tracked",
-    "code": null
+    "code": "https://github.com/thustorage/osdi21ae"
   },
   {
     "title": "AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing",
@@ -500,7 +513,7 @@
       "Yang Wang",
       "Jiwu Shu"
     ],
-    "venue": "Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "venue": "Proceedings of the 25th International Conference on Architectural Support for Programming Languages and Operating Systems",
     "short": "ASPLOS'20",
     "year": "2020",
     "link": "https://dl.acm.org/doi/10.1145/3373376.3378515",

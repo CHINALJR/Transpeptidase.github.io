@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   padding: 2rem 1rem 1rem 1rem;
-  max-width: 900px;
+  max-width: 950px;
   margin: 0 auto;
   flex-wrap: wrap;
 }
@@ -23,14 +23,14 @@ body {
 
 
 .avatar-rect {
-  width: 160px;
+  width: 215px;
   height: auto;
   object-fit: cover;
   margin-right: 2rem;
 }
 
 main {
-  max-width: 900px;
+  max-width: 950px;
   margin: 0 auto;
   padding: 1rem;
   padding-bottom: 1rem;
