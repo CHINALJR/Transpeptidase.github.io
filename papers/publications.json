@@ -26,6 +26,22 @@
     "link": "https://www.usenix.org/conference/fast26/"
   },
   {
+    "title": "Switch∆: Asynchronous Metadata Updating for Distributed Storage with In-Network Data Visibility",
+    "authors": [
+      "Junru Li",
+      "Qing Wang",
+      "Zhe Yang",
+      "Shuo Liu",
+      "Jiwu Shu",
+      "Youyou Lu"
+    ],
+    "venue": "The 42nd IEEE International Conference on Data Engineering",
+    "short": "ICDE'26",
+    "year": "2026",
+    "link": "",
+    "code": ""
+  },
+  {
     "title": "Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs",
     "authors": [
       "Qing Wang",
